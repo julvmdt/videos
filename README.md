@@ -9,7 +9,7 @@ This App uses the YouTube API to search for videos.
 
 ## Live URL
 
-https://videos-julvmdt.vercel.app/
+[Videos App](https://videos-julvmdt.vercel.app/)
 
 ## Build with
 
