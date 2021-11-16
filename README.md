@@ -1,4 +1,4 @@
-# GitHub User Search App
+# Videos Search App
 
 This App uses the YouTube API to search for videos.
 
